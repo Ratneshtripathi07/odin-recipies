@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(236, 254, 255);
+}
+
+.htext {
+    text-align: center;
+    border: 2px solid saddlebrown;
+    border-radius: 1%;
+    background-color: azure;
+}
+
+.rec-ls-cont {
+    border: 2px solid brown;
+}
+
+li{
+    margin: 10px;
+    /* text-align: center; */
+    list-style-type:square;
+
+}
